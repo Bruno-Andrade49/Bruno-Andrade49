@@ -81,8 +81,8 @@
 </p>
 </p>
 
+<nav display="flex">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-andrade49&show_icons=true&locale=en&layout=compact" alt="bruno- andrade49" />
-
 </p>
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-andrade49&show_icons=true&locale=en" alt ="bruno-andrade49" /></p>
+</nav>
