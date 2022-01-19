@@ -1,5 +1,7 @@
 <h1 align="center">Oi👋, me chamo Bruno Andrade</h1>
-<h3 align="center">Graduando na área de TI, curso Bacharel em Sistemas de informação, e atualmente pagando o quarto período da ementa. Possuo noções nas seguintes linguagens de programação Back-end, JAVA, Python, SQL (Banco de dados relacional), juntamente com alguns frameworks JAVA como JPA Hibertate e Spring. Além disso, atualmente realizo estudos da área de front-end, buscando conhecimento em JavaScript, HTML e CSS.</h3>
+
+<h3>Sobre mim: </h3>
+<h2 align="center">Graduando na área de TI, curso Bacharel em Sistemas de informação, e atualmente pagando o quarto período da ementa. Possuo noções nas seguintes linguagens de programação Back-end, JAVA, Python, SQL (Banco de dados relacional), juntamente com alguns frameworks JAVA como JPA Hibertate e Spring. Além disso, atualmente realizo estudos da área de front-end, buscando conhecimento em JavaScript, HTML e CSS.</h2>
 
 
 <p align="center"> 
