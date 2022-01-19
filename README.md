@@ -4,19 +4,6 @@
 <h2 align="center">Sou estudante do curso de Sistemas de Informação, fissurado em tecnologia/progamação e amante/praticante de diversos esportes em geral.</h2>
 
 
-<p align="center"> 
-<a href="https://twitter.com/bruno_andrade11" target="_blank"> 
-<img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bruno_andrade11" height="30" width ="30" />
-</a>
-<a href="https://www.linkedin.com/in/bruno-andrade-386b331b6/" target="_blank"> 
-<img  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt= "https://www.linkedin.com/in/bruno-andrade-386b331b6/" height="30" width="30" />
-</a>
-<a href="https://instagram.com/bruno.andradee__" target="_blank">
-<img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" alt="https://instagram.com/bruno.andradee__" height="30" width="30" />
-</a>
-</p>
-
-
 
 <h3 align="left">Tecnologias e ferramentas:</h3>
 <div align="center"> 
