@@ -84,8 +84,8 @@
 <h2 align="center">---------------------------------------------------</h2>
 
 <div>
-   <img heigth="150cm" src="https://github-readme-stats.vercel.app/api?username=bruno-andrade49&show_icons=true&locale=en&theme=dark" alt ="bruno-andrade49"/>
-   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-andrade49&show_icons=true&locale=en&layout=compact&theme=dark" alt="bruno- andrade49" />
+   <img heigth="180cm" width="500cm" src="https://github-readme-stats.vercel.app/api?username=bruno-andrade49&show_icons=true&locale=en&theme=dark" alt ="bruno-andrade49"/>
+   <img heigth="180cm" width="350cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-andrade49&show_icons=true&locale=en&layout=compact&theme=dark" alt="bruno- andrade49" />
 </div>
 
 
