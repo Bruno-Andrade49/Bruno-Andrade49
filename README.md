@@ -1,7 +1,7 @@
-<h1 align="center">Oi👋, me chamo Bruno Andrade</h1>
+<h1 align="center">Opa👋, me chamo Bruno Andrade</h1>
 
 <h3>Sobre mim: </h3>
-<h2 align="center">Graduando na área de TI, curso Bacharel em Sistemas de informação, e atualmente pagando o quarto período da ementa. Possuo noções nas seguintes linguagens de programação Back-end, JAVA, Python, SQL (Banco de dados relacional), juntamente com alguns frameworks JAVA como JPA Hibertate e Spring. Além disso, atualmente realizo estudos da área de front-end, buscando conhecimento em JavaScript, HTML e CSS.</h2>
+<h2 align="center">Sou estudante do curso de Sistemas de Informação, fissurado em tecnologia/progamação e amante/praticante de diversos esportes em geral.</h2>
 
 
 <p align="center"> 
@@ -84,6 +84,18 @@
 </p>
 
 <h2 align="center">---------------------------------------------------</h2>
+
+- 🌱 Atualmente busco conhecimentos sobre o Framework REACT.JS
+- ✉️ Contatos: 
+<div align="center"> 
+  <a href="https://www.instagram.com/brunoandradee__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/KurokoA71#7393" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:b.emanueandrade@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-andrade-386b331b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+<h2 align="center">---------------------------------------------------</h2>
+
+
 
 <div>
    <img heigth="180cm" width="440cm" src="https://github-readme-stats.vercel.app/api?username=bruno-andrade49&show_icons=true&locale=en&theme=dark" alt ="bruno-andrade49"/>
