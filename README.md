@@ -77,7 +77,7 @@
 
 <h2 align="center">---------------------------------------------------</h2>
 
-- 🌱 Atualmente busco conhecimentos sobre o Framework REACT.JS
+- ⚛️ Dev front-End REACT.JS
 - ✉️ Contatos: 
 <div align="center"> 
   <a href="https://www.instagram.com/brunoandradee__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
