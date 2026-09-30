@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/dev-hologram.svg" alt="Holograma de um dev programando" width="100%" />
-
 # Olá, eu sou o Bruno 👋
 
 <a href="https://git.io/typing-svg">
