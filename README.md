@@ -1,98 +1,84 @@
-<h1 align="center">Opa👋, me chamo Bruno Andrade</h1>
+<div align="center">
 
-<h3>Sobre mim: </h3>
-<h2 align="center">Sou estudante do curso de Sistemas de Informação, fissurado em tecnologia/progamação e amante/praticante de diversos esportes em geral.</h2>
+<img src="./assets/dev-hologram.svg" alt="Holograma de um dev programando" width="100%" />
 
+# Olá, eu sou o Bruno 👋
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=Frontend+Developer+%40+Single+Software;Vue+3+%E2%80%A2+Nuxt+%E2%80%A2+TypeScript;Interfaces+r%C3%A1pidas%2C+acess%C3%ADveis+e+escal%C3%A1veis;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Tecnologias e ferramentas:</h3>
-<div align="center"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-  
-<a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" height="40" width="40"/> 
-</a> 
-  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"height="40"/> 
-</a> 
-  
-<a href=" https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="40" width="40"/> 
-</a> 
-  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/> 
-</a> 
-  
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/color/344/spring-logo.png" alt="java" height="40" width="40"/> 
-</a> 
- 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40" width="40"/> 
-</a> 
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
- 
-<a href="https:// nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt= "nodejs" width="40" height="40"/> 
-</a> 
-  
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="postgresql" width="40" height="40"/> 
-</a> 
-  
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" alt="postman" width="40" height="40"/> 
-</a> 
-  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a > 
-  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-  
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt ="typescript" width="40" height="40"/> 
-</a> 
+<br/>
 
-  
-<p href="com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-
-<p href="com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<a href="https://www.linkedin.com/in/bruno-andrade-386b331b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:b.emanueandrade@hotmail.com"><img src="https://img.shields.io/badge/Email-0e7490?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/brunoandradee__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<img src="https://img.shields.io/badge/Discord-KurokoA71-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: KurokoA71"/>
 
 </div>
 
+---
 
-<h2 align="center">---------------------------------------------------</h2>
+## 🧑‍💻 Sobre mim
 
-- ⚛️ Dev front-End REACT.JS
-- ✉️ Contatos: 
-<div align="center"> 
-  <a href="https://www.instagram.com/brunoandradee__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/KurokoA71#7393" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:b.emanueandrade@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-andrade-386b331b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+- 💼 **Frontend Developer Pleno** na **Single Software**, com cerca de 4 anos de experiência
+- 🎰 Trabalho em uma plataforma multi-marca com **Vue 3, Nuxt, TypeScript, Pinia, PrimeVue e Tailwind CSS**
+- ⚛️ Antes disso, construí produtos com **React, JavaScript e WordPress** na Impulse Business Solutions
+- 🎓 Bacharel em **Sistemas de Informação** pela Unifacisa
+- 📜 **Scrum Fundamentals Certified (SFC™)**
+- ⚽ Fora do código, amante e praticante de vários esportes
+
+```ts
+const bruno = {
+  role: 'Frontend Developer',
+  daily: ['Vue 3', 'Nuxt', 'TypeScript', 'Pinia', 'PrimeVue', 'Tailwind CSS'],
+  focus: ['arquitetura de front-end', 'performance', 'design systems'],
+  currently: 'evoluindo rumo à liderança técnica',
+  fuel: '☕',
+} as const
+```
+
+---
+
+## 🛠️ Stack
+
+**No dia a dia**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,html,css,vite,git,github,figma&theme=dark" alt="Stack principal" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=35495E" alt="Pinia"/>
+  <img src="https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="PrimeVue"/>
+</p>
+
+**Já trabalhei com**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,python,mysql,postgres,postman,bootstrap,wordpress,heroku&theme=dark" alt="Outras tecnologias" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bruno-andrade49&show_icons=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=67e8f9&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-andrade49&layout=compact&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Linguagens mais usadas"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=bruno-andrade49&locale=pt_BR&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Sequência de contribuições"/>
 </div>
-<h2 align="center">---------------------------------------------------</h2>
 
+---
 
+<div align="center">
 
-<div>
-   <img heigth="180cm" width="440cm" src="https://github-readme-stats.vercel.app/api?username=bruno-andrade49&show_icons=true&locale=en&theme=dark" alt ="bruno-andrade49"/>
-   <img heigth="180cm" width="350cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-andrade49&show_icons=true&locale=en&layout=compact&theme=dark" alt="bruno- andrade49" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno-Andrade49/Bruno-Andrade49/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruno-Andrade49/Bruno-Andrade49/output/github-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Bruno-Andrade49/Bruno-Andrade49/output/github-snake.svg" />
+</picture>
+
+<sub>Feito com ☕ e muito <code>npm run dev</code></sub>
+
 </div>
-
-
-![Snake animation](https://github.com/Bruno-Andrade49/Bruno-Andrade49/blob/output/github-contribution-grid-snake.svg)
