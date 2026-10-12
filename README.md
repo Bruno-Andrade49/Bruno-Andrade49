@@ -56,19 +56,6 @@ const bruno = {
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,python,mysql,postgres,postman,bootstrap,wordpress,heroku&theme=dark" alt="Outras tecnologias" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bruno-andrade49&show_icons=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=67e8f9&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-andrade49&layout=compact&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Linguagens mais usadas"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=bruno-andrade49&locale=pt_BR&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Sequência de contribuições"/>
-</div>
-
----
-
 <sub>Feito com ☕ e muito <code>npm run dev</code></sub>
 
 </div>
