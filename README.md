@@ -69,14 +69,6 @@ const bruno = {
 
 ---
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno-Andrade49/Bruno-Andrade49/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruno-Andrade49/Bruno-Andrade49/output/github-snake.svg" />
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Bruno-Andrade49/Bruno-Andrade49/output/github-snake.svg" />
-</picture>
-
 <sub>Feito com ☕ e muito <code>npm run dev</code></sub>
 
 </div>
